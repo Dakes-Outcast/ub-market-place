@@ -4,7 +4,7 @@ import {
   coerceBooleanProperty,
   coerceElement,
   coerceNumberProperty
-} from "./chunk-7OPAKS5W.js";
+} from "./chunk-S3EA4JDH.js";
 import {
   DOCUMENT,
   isPlatformBrowser
@@ -5524,6 +5524,8 @@ export {
   _getFocusedElementPierceShadowDom,
   _getEventTarget,
   _isTestEnvironment,
+  CdkObserveContent,
+  ObserversModule,
   ENTER,
   ESCAPE,
   SPACE,
@@ -5533,8 +5535,6 @@ export {
   DOWN_ARROW,
   A,
   hasModifierKey,
-  CdkObserveContent,
-  ObserversModule,
   BreakpointObserver,
   Breakpoints,
   addAriaReferencedId,
@@ -5589,4 +5589,4 @@ export {
   MatRippleLoader,
   _MatInternalFormField
 };
-//# sourceMappingURL=chunk-UDRVY2VH.js.map
+//# sourceMappingURL=chunk-BYXQF5DD.js.map
