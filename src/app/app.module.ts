@@ -10,10 +10,12 @@ import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatButtonModule} from '@angular/material/button';
 import { CartModule } from './cart/cart.module';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import { LogInComponent } from './components/log-in/log-in.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LogInComponent
   ],
   imports: [
     BrowserModule,
